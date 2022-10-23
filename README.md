@@ -41,7 +41,7 @@ This is the initial screen, to start the game press on one of the squares, you w
 
 ![Post show](https://github.com/AnthonySaReis/Jogo-Da-Velha-ReactJS/blob/master/public/pics/velha.png)
 
-### 4 - In case of a tie or miss click, press the reset button to clear the board.
+### 3 - In case of a tie or miss click, press the reset button to clear the board.
 
 ![Portfolio](https://github.com/AnthonySaReis/Jogo-Da-Velha-ReactJS/blob/master/public/pics/reset.png)
 
